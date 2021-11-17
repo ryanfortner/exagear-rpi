@@ -1,7 +1,9 @@
 # exagear-rpi
 installing Exagear Desktop on the newer Raspberry Pies
 
-thanks to [this guide](https://insrt.uk/post/exagear-install)
+thanks to [this guide](https://insrt.uk/post/exagear-install).
+
+Exagear Desktop is a discontinued piece of software that could be used to emulate x86 applications on ARM devices.
 
 ### Installation Steps
 First install prerequisites with `apt`
